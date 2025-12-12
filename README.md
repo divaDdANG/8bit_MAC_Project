@@ -11,6 +11,7 @@ The design performs efficient arithmetic operations (multiplication + accumulati
 RTL Design:
 
 Wrote Verilog code for an 8-bit MAC unit (multiplier + adder + accumulator).
+<img width="975" height="501" alt="image" src="https://github.com/user-attachments/assets/4af49a60-8f8d-4ab7-8f73-89854438c87f" />
 
 Verified basic functionality through simulation.
 
