@@ -22,12 +22,16 @@ Synthesized RTL into a gate-level netlist using standard cell libraries.
 
 Generated Area, Timing, QoR, and Power reports.
 Area report:
+
 <img width="975" height="360" alt="image" src="https://github.com/user-attachments/assets/53855dc4-7d15-4d6d-ae3d-c564a3f5edc6" />
 Timing report:
+
 <img width="975" height="863" alt="image" src="https://github.com/user-attachments/assets/a003518d-2b15-4e33-a21c-0c686c1fbcfc" />
 Power report:
+
 <img width="672" height="307" alt="image" src="https://github.com/user-attachments/assets/756796bb-f3c4-4934-9d0e-a22d263fca03" />
 Qor report:
+
 <img width="959" height="864" alt="image" src="https://github.com/user-attachments/assets/141fbeba-4da3-4804-be01-5038316fca9a" />
 
 Visualized schematic to confirm structural correctness.
