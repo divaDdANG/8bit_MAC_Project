@@ -8,7 +8,7 @@ The design performs efficient arithmetic operations (multiplication + accumulati
 
 # Agenda / Design Flow
 
-RTL Design:
+<u>RTL Design:</u>
 
 Wrote Verilog code for an 8-bit MAC unit (multiplier + adder + accumulator).
 
