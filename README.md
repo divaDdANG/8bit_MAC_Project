@@ -11,17 +11,27 @@ The design performs efficient arithmetic operations (multiplication + accumulati
 RTL Design:
 
 Wrote Verilog code for an 8-bit MAC unit (multiplier + adder + accumulator).
-<img width="975" height="501" alt="image" src="https://github.com/user-attachments/assets/4af49a60-8f8d-4ab7-8f73-89854438c87f" />
 
 Verified basic functionality through simulation.
+<img width="975" height="501" alt="image" src="https://github.com/user-attachments/assets/8b38f284-44e5-4a29-a05e-514647f8cf9b" />
+
 
 Logic Synthesis (Cadence Genus):
 
 Synthesized RTL into a gate-level netlist using standard cell libraries.
 
 Generated Area, Timing, QoR, and Power reports.
+Area report:
+<img width="975" height="360" alt="image" src="https://github.com/user-attachments/assets/53855dc4-7d15-4d6d-ae3d-c564a3f5edc6" />
+Timing report:
+<img width="975" height="863" alt="image" src="https://github.com/user-attachments/assets/a003518d-2b15-4e33-a21c-0c686c1fbcfc" />
+Power report:
+<img width="672" height="307" alt="image" src="https://github.com/user-attachments/assets/756796bb-f3c4-4934-9d0e-a22d263fca03" />
+Qor report:
+<img width="959" height="864" alt="image" src="https://github.com/user-attachments/assets/141fbeba-4da3-4804-be01-5038316fca9a" />
 
 Visualized schematic to confirm structural correctness.
+<img width="975" height="500" alt="image" src="https://github.com/user-attachments/assets/3ab91a2f-03ec-46fa-b34f-f1d74c19be97" />
 
 Next Steps (Future Work):
 
