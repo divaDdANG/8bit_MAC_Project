@@ -40,11 +40,23 @@ Generated Area, Timing, QoR, and Power reports.
 Visualized schematic to confirm structural correctness.
 <img width="975" height="500" alt="image" src="https://github.com/user-attachments/assets/3ab91a2f-03ec-46fa-b34f-f1d74c19be97" />
 
+# DFT AND LEC CHECK:
+
+Schematic view of design after running DFT check:
+
+<img width="975" height="437" alt="image" src="https://github.com/user-attachments/assets/cc3f6e8f-2e4c-4433-86ab-278e36ef8dff" />
+
+LEC equivalent check:
+
+<img width="975" height="248" alt="image" src="https://github.com/user-attachments/assets/d077c92e-e91f-4928-a541-fecc8155dedd" />
+
+<img width="975" height="453" alt="image" src="https://github.com/user-attachments/assets/d94708b3-6ef4-4cbe-8521-7d990ab0f513" />
+
+
+
+
+
 Next Steps (Future Work):
-
-DFT (Design for Testability): Insert scan chains and generate test coverage reports.
-
-LEC (Logic Equivalence Check): Verify synthesized netlist matches the RTL logic.
 
 Floorplanning & Power Planning: Move to Cadence Innovus for physical design flow.
 
@@ -63,6 +75,8 @@ Edge AI and embedded inference systems
 # Tools Used
 
 Cadence Genus – Logic synthesis and analysis
+
+Cadence Conformal - DFT and LEC
 
 Verilog HDL – Hardware design
 
